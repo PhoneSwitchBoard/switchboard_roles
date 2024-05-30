@@ -1,0 +1,17 @@
+namespace: prominic
+name: prominic_roles
+version: 1.0.3
+readme: "README.md"
+repository: https://github.com/Prominic/prominic_roles
+documentation: https://github.com/Prominic/prominic_roles
+homepage: https://github.com/Prominic/prominic_roles
+issues: https://github.com/Prominic/prominic_roles/issues
+description: "A collection of roles for the Prominic Environment"
+authors:
+  - "MarkProminic"
+license:
+  - GPL-2.0-or-later
+tags:
+  - prominic
+  - roles
+  - linux
